@@ -1,0 +1,8 @@
+{
+"name":"usui[ARSA]#6046",
+"ticker":"ARSA",
+"discordId":"915525344260415528",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/ARSAusui/ARSA/main/poolMetaDate.json",
+"validation":"https://raw.githubusercontent.com/ARSAusui/ARSA/main/sjg-validation.json"
+}
